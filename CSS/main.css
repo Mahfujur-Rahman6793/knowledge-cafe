@@ -1,0 +1,16 @@
+*{
+    margin-left: 2%;
+}
+.heading{
+    display: flex;
+    margin-right: 2%;
+    border: 1px solid antiquewhite;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+
+}
+.heading h3{
+    height: 40px;
+    width: 306px;
+}
